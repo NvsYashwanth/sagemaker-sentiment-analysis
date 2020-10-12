@@ -1,4 +1,4 @@
-# sagemaker-sentiment-analysis
+# Deploying a sentiment analysis model
 Deploying a sentiment analysis model with AWS Sagemaker, Lambda, API Gateway to classify movie reviews.
 # [License](https://github.com/eswar3/sentiment-analysis-sagemaker-deployment/blob/master/LICENSE)
 
